@@ -1,0 +1,37 @@
+.navigbar {
+    background-color:rgb(243, 243, 243);
+    color:black;
+    display:flex;
+    align-items:center;
+    padding:20px;
+}
+ul li {
+    align-items:center;
+}
+.maincont {
+    margin-left:30%;
+}
+.words {
+    border:solid rgb(230, 230, 230) 1px;
+    margin-bottom:20px;
+}
+.row {
+    margin-top:20px;
+    padding-left:15%;
+}
+.linker {
+    margin-left:300px;
+}
+#bttn {
+    margin-left:5px;
+    margin-top:3px;
+}
+.searchbar {
+    margin-top:3px;
+}
+li {
+    text-decoration-color:black;
+}
+footer {
+    background-color:blue
+}
